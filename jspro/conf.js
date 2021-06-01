@@ -85,7 +85,7 @@ jsproxy_config({
     'http://haha.com/': {
       content: 'Hello World'
     },
-    'https://ip.com/': {
+    'https://pi.com/': {
       redir: 'https://ip.cn/'
     },
   }
