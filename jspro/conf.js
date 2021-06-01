@@ -85,7 +85,7 @@ jsproxy_config({
     'http://haha.com/': {
       content: 'Hello World'
     },
-    'http://ip.ip': {
+    'http://ip.com': {
       replace: 'http://ip111.cn'
     },
   }
